@@ -11,6 +11,7 @@ When the countdown finishes, it prints "=== Countdown Complete ===".
 - The while loop
 - Digital output (digitalWrite, pinMode)
 - The Serial Monitor (Serial.begin, Serial.print, Serial.println)
+- The For loop
 ## How to run it
 1. Open the .ino file in the Arduino IDE.
 2. Connect an Arduino Uno via USB.
